@@ -1,1 +1,6 @@
-# trip_to_iceland_dpo
+# notes on upcoming trip to iceland
+
+this contains:
+- to do list
+- itinerary
+- camping list
