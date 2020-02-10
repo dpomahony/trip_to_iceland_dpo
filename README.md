@@ -4,3 +4,5 @@ this contains:
 - to do list
 - itinerary
 - camping list
+
+Travel plans
